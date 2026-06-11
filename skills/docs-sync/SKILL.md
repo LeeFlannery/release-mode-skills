@@ -61,6 +61,10 @@ Unless the project has its own style guide:
 - Preserve the project's existing doc structure and voice unless asked to restructure.
 - Do not commit or push — leave that to the user.
 
+## Example
+
+A complete sample of this skill's output: [references/example-output.md](references/example-output.md).
+
 ## Scope
 
 This skill syncs existing documentation to match the code. It does not:

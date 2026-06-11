@@ -47,6 +47,10 @@ Offer the user 2-3 candidate use cases with a recommendation, then spec the chos
 [Choices with one-line reasons. Default to boring, mainstream choices —
 the sample should showcase the target product, not your stack taste.]
 
+## Example
+
+A complete sample of this skill's output: [references/example-output.md](references/example-output.md).
+
 ## Scope
 
 In:
