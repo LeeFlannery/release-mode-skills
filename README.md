@@ -96,6 +96,16 @@ Restart your agent after installing so it rescans skill metadata.
 | Codex CLI | `~/.codex/skills/` | `.codex/skills/` or `.agents/skills/` |
 | OpenClaw | `~/.openclaw/skills/` | n/a |
 
+## Quality standards
+
+Every skill in this repo meets a bar most skill collections don't state, let alone enforce:
+
+- **Trigger-rich descriptions.** Every `description:` lists the concrete phrases that should activate the skill, so agents trigger it reliably instead of guessing from a one-liner.
+- **Scope fences.** Every skill says what it does *not* do, so it doesn't bleed into neighboring tasks or take actions you didn't ask for.
+- **Prompt-injection guards.** Skills that consume pasted content (emails, job descriptions, changelogs, discovery notes) explicitly treat that input as data, never as instructions.
+- **Example outputs.** Deliverable-producing skills ship a `references/example-output.md` showing a real, complete sample of what they produce — instructions you can verify, not just trust.
+- **CI-validated.** Every push checks that frontmatter is well-formed, skill names match their folders, and README links resolve.
+
 ## SKILL.md format
 
 Every skill is a folder containing a `SKILL.md` file:
