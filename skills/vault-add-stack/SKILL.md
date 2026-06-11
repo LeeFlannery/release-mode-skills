@@ -82,3 +82,7 @@ content.
 - If the file already exists, stop and ask the user whether to update it instead.
 - The user handles git. Do not commit or push.
 - If extra context is given ("I'm using it for X"), put it in `use_case` and Notes.
+
+## Example
+
+A complete sample of this skill's output: [references/example-output.md](references/example-output.md).

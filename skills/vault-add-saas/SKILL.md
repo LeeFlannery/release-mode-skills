@@ -70,3 +70,7 @@ content.
 - The user handles git. Do not commit or push.
 - If a tool cannot be found, tell the user what is missing and ask them to fill
   the gaps before writing.
+
+## Example
+
+A complete sample of this skill's output: [references/example-output.md](references/example-output.md).
