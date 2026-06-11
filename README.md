@@ -10,7 +10,6 @@ A full DevRel-agency skill suite organized by pipeline stage, plus tracking, wor
 
 | Skill | Description |
 |-------|-------------|
-| [company-vet](skills/company-vet/) | Pre-call due diligence brief on a company (coming) |
 | [company-research](skills/company-research/) | Deep research brief: org structure, where DevRel reports, product feedback loop signals |
 | [jd-analyzer](skills/jd-analyzer/) | Score a job description against a configurable rubric |
 | [proposal-writer](skills/proposal-writer/) | Turn discovery-call notes into a consulting proposal or SOW |
@@ -72,8 +71,8 @@ A full DevRel-agency skill suite organized by pipeline stage, plus tracking, wor
 Clone and copy whichever skills you want:
 
 ```bash
-git clone https://github.com/releasemodellc/release-mode-skills.git
-cp -r release-mode-skills/skills/company-vet ~/.claude/skills/
+git clone https://github.com/LeeFlannery/release-mode-skills.git
+cp -r release-mode-skills/skills/dx-audit ~/.claude/skills/
 ```
 
 Or install all of them:
