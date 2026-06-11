@@ -84,6 +84,10 @@ one consolidated feedback round per deliverable, etc.]
 - Short. A proposal that takes 20 minutes to read doesn't get signed. Two pages of substance beats eight of throat-clearing.
 - Pricing: structure and schedule only, real numbers come from the user. Never suggest rates.
 
+## Example
+
+A complete sample of this skill's output: [references/example-output.md](references/example-output.md).
+
 ## Scope
 
 This skill writes proposals from discovery notes. It does not:

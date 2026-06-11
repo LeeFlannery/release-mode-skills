@@ -81,6 +81,10 @@ Append exactly one record per JD. Never overwrite existing records.
 - Ratings should use whatever scale the rubric defines. If the rubric doesn't specify a scale, default to: strong / moderate / weak / unclear.
 - "Unclear" is a valid rating. If the JD doesn't provide enough information to score an axis, say so.
 
+## Example
+
+A complete sample of this skill's output: [references/example-output.md](references/example-output.md).
+
 ## Scope
 
 This skill analyzes JDs. It does not:
