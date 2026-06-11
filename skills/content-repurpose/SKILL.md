@@ -58,6 +58,10 @@ images), anything the user must add by hand]
 - Hashtags, emoji, and formatting follow the per-platform spec, not habit.
 - Flag any cut that needs an asset the user must produce (a clip, a screenshot) rather than silently describing imaginary media.
 
+## Example
+
+A complete sample of this skill's output: [references/example-output.md](references/example-output.md).
+
 ## Scope
 
 This skill cuts existing content. It does not:

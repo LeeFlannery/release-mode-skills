@@ -76,6 +76,10 @@ many conferences actively want them.]
 - Never invent the speaker's experience, credentials, or war stories. The bio and evidence come from what the user actually did.
 - Match abstract length limits exactly — overlong abstracts get truncated or binned.
 
+## Example
+
+A complete sample of this skill's output: [references/example-output.md](references/example-output.md).
+
 ## Scope
 
 This skill writes the proposal. It does not:
