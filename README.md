@@ -68,17 +68,22 @@ A full DevRel-agency skill suite organized by pipeline stage, plus tracking, wor
 
 ## Install
 
-Clone and copy whichever skills you want:
+The fastest way is [`npx skills`](https://github.com/vercel-labs/skills), which works across 40+ agents (Claude Code, Codex CLI, Cursor, Gemini CLI, ...):
+
+```bash
+# pick skills interactively
+npx skills add LeeFlannery/release-mode-skills
+
+# or install specific skills, or everything
+npx skills add LeeFlannery/release-mode-skills --skill dx-audit -g -y
+npx skills add LeeFlannery/release-mode-skills --all
+```
+
+Or clone and copy whichever skills you want:
 
 ```bash
 git clone https://github.com/LeeFlannery/release-mode-skills.git
 cp -r release-mode-skills/skills/dx-audit ~/.claude/skills/
-```
-
-Or install all of them:
-
-```bash
-cp -r release-mode-skills/skills/* ~/.claude/skills/
 ```
 
 Restart your agent after installing so it rescans skill metadata.
