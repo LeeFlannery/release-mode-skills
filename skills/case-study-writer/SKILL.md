@@ -68,6 +68,10 @@ Length target: 400–800 words. Long enough to be credible, short enough to be r
 - Resist the hero narrative. The client made the decisions; the consultant supplied the lever. Case studies that flatter the client get approved faster, too.
 - State the engagement's shape (duration, intensity) so readers self-qualify.
 
+## Example
+
+A complete sample of this skill's output: [references/example-output.md](references/example-output.md).
+
 ## Scope
 
 This skill writes the case study. It does not:

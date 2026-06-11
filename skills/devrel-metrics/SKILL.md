@@ -81,6 +81,10 @@ docs analytics, key-issuance events, funnel events, UTM discipline]
 - Every metric gets an owner and a cadence or it's deleted.
 - Be honest about attribution limits. DevRel influence is often directional, not causal — say so in the sheet rather than overclaiming.
 
+## Example
+
+A complete sample of this skill's output: [references/example-output.md](references/example-output.md).
+
 ## Scope
 
 This skill designs the measurement framework. It does not:
