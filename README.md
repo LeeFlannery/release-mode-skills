@@ -37,6 +37,7 @@ A full DevRel-agency skill suite organized by pipeline stage, plus tracking, wor
 | Skill | Description |
 |-------|-------------|
 | [content-repurpose](skills/content-repurpose/) | One source piece → platform-native cuts (YouTube, LinkedIn, X, TikTok, blog) |
+| [hermes-tweet-launch-monitor](skills/hermes-tweet-launch-monitor/) | Read-first X/Twitter launch monitoring with Hermes Tweet |
 | [cfp-writer](skills/cfp-writer/) | Conference talk proposals: titles, abstract, outline, bio |
 
 ### Track & organize
